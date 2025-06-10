@@ -60,7 +60,7 @@
 - Public/Private Subnet을 분리하여 아키텍처 안정성 확보  
 - NAT Gateway를 이용한 **보안성 높은 외부 통신**  
 - Bastion Host를 통한 SSH 보안 접속  
-- **방화벽(Firewall)**을 통해 외부 접근 제어  
+- **방화벽(Firewall)** 을 통해 외부 접근 제어  
 
 ---
 
